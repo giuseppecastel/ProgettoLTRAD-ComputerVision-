@@ -1,0 +1,6 @@
+train: \Users\Windows\Desktop\TrainingTop\train\images
+val: \Users\Windows\Desktop\TrainingTop\valid\images
+test: \Users\Windows\Desktop\TrainingTop\test\images
+
+nc: 1
+names: ['Top_Street_Light']

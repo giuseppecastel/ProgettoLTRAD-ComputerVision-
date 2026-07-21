@@ -1,0 +1,13 @@
+train: \Users\Windows\Desktop\gius\train\images
+val: \Users\Windows\Desktop\gius\valid\images
+test: \Users\Windows\Desktop\gius\test\images
+
+nc: 20
+names: ['HV-switch', 'HV-transmission', 'LV link', 'LV link box', 'concrete-pole', 'crossarm', 'light pole', 'mid mount pole', 'mid mount suitable pole', 'pole', 'small cell pole', 'steel-pole', 'streetlight', 'timber-pole', 'top mount pole', 'top mount suitable pole', 'traffic pole', 'traffic-light', 'transformer', 'unsuitable']
+
+roboflow:
+  workspace: rtert
+  project: feature-detection-v1-hkyex
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/rtert/feature-detection-v1-hkyex/dataset/2
